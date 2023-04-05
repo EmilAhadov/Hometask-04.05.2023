@@ -1,0 +1,14 @@
+C:\Users\ca.r213.15\Desktop\ClassTaskContinue\ClassTaskContinue\bin\Debug\netcoreapp3.1\ClassTaskContinue.exe
+C:\Users\ca.r213.15\Desktop\ClassTaskContinue\ClassTaskContinue\bin\Debug\netcoreapp3.1\ClassTaskContinue.deps.json
+C:\Users\ca.r213.15\Desktop\ClassTaskContinue\ClassTaskContinue\bin\Debug\netcoreapp3.1\ClassTaskContinue.runtimeconfig.json
+C:\Users\ca.r213.15\Desktop\ClassTaskContinue\ClassTaskContinue\bin\Debug\netcoreapp3.1\ClassTaskContinue.runtimeconfig.dev.json
+C:\Users\ca.r213.15\Desktop\ClassTaskContinue\ClassTaskContinue\bin\Debug\netcoreapp3.1\ClassTaskContinue.dll
+C:\Users\ca.r213.15\Desktop\ClassTaskContinue\ClassTaskContinue\bin\Debug\netcoreapp3.1\ClassTaskContinue.pdb
+C:\Users\ca.r213.15\Desktop\ClassTaskContinue\ClassTaskContinue\obj\Debug\netcoreapp3.1\ClassTaskContinue.csproj.AssemblyReference.cache
+C:\Users\ca.r213.15\Desktop\ClassTaskContinue\ClassTaskContinue\obj\Debug\netcoreapp3.1\ClassTaskContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r213.15\Desktop\ClassTaskContinue\ClassTaskContinue\obj\Debug\netcoreapp3.1\ClassTaskContinue.AssemblyInfoInputs.cache
+C:\Users\ca.r213.15\Desktop\ClassTaskContinue\ClassTaskContinue\obj\Debug\netcoreapp3.1\ClassTaskContinue.AssemblyInfo.cs
+C:\Users\ca.r213.15\Desktop\ClassTaskContinue\ClassTaskContinue\obj\Debug\netcoreapp3.1\ClassTaskContinue.csproj.CoreCompileInputs.cache
+C:\Users\ca.r213.15\Desktop\ClassTaskContinue\ClassTaskContinue\obj\Debug\netcoreapp3.1\ClassTaskContinue.dll
+C:\Users\ca.r213.15\Desktop\ClassTaskContinue\ClassTaskContinue\obj\Debug\netcoreapp3.1\ClassTaskContinue.pdb
+C:\Users\ca.r213.15\Desktop\ClassTaskContinue\ClassTaskContinue\obj\Debug\netcoreapp3.1\ClassTaskContinue.genruntimeconfig.cache
